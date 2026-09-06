@@ -1,6 +1,8 @@
 # ThermEcoWat Geothermal Resources Assessment
 
-!images/dashboard_overview.png
+<p align="center">
+  images/dashboard-overview.png
+</p>
 
 This repository contains Power BI dashboards developed within the **ThermEcoWat European Project** to support the characterization of thermal water resources, geothermal potential assessment, and climate change impact analysis in hydrothermal systems.
 
